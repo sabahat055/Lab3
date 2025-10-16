@@ -1,3 +1,17 @@
+This is a small fix for Task 7.
+Added another quick fix line.
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is my first test line.
 

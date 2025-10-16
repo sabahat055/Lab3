@@ -1,2 +1,1 @@
-# Lab 3 - Git Conflicts
-# Lab3
+This line was added remotely from GitHub.

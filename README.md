@@ -1,3 +1,7 @@
+
+This is the final resolved version.
+
+
 This is my GitHub remote version.
 
 
